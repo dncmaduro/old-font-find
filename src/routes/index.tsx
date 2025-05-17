@@ -1,6 +1,6 @@
 import { createFileRoute } from '@tanstack/react-router'
 import { useState } from 'react'
-import { Textarea, Button, Stack, Group, Title, rem } from '@mantine/core'
+import { Textarea, Button, Stack, Group, Title } from '@mantine/core'
 import { useClipboard } from '@mantine/hooks'
 import { notifications } from '@mantine/notifications'
 import '@mantine/core/styles.css' // Import Mantine styles
